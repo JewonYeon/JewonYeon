@@ -1,4 +1,4 @@
-### Hi there 👋
+### Front-End 개발자
 
 ### Tech Stack
 **[ 프로그래밍 언어 ]** Javascript, Typescript, HTML, CSS, SCSS/SASS   
