@@ -1,4 +1,8 @@
+# Jewon
 ### Front-End 개발자
+
+[![Jewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=JewonYeon)](https://github.com/JewonYeon/github-readme-stats)
+
 
 ### Tech Stack
 **[ 프로그래밍 언어 ]** Javascript, Typescript, HTML, CSS, SCSS/SASS   
