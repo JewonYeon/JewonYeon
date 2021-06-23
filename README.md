@@ -1,13 +1,8 @@
-<h1>💁‍ Jewon</h1>
+<h1 align="center">💁‍ Jewon</h1>
 
 [![Jewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=JewonYeon&&theme=react&show_icons=true)](https://github.com/JewonYeon/github-readme-stats)
 
-<h3> Tech Stack </h3>
 
-**[ 프로그래밍 언어 ]** Javascript, Typescript, HTML, CSS, SCSS/SASS   
-**[ 프레임워크 & 라이브러리 ]** React/Hooks, Redux, Node.js, Express   
-**[ DB & 서버 ]** MySQL, Sequelize   
-**[ Others ]** Github, AWS(EC2, RDS, S3, Route53), Postman, Notion, Miro   
 <!--
 **JewonYeon/JewonYeon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
