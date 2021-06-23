@@ -1,10 +1,9 @@
-# Jewon
-### Front-End 개발자
+<h1>💁‍ Jewon</h1>
 
-[![Jewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=JewonYeon)](https://github.com/JewonYeon/github-readme-stats)
+[![Jewon's GitHub stats](https://github-readme-stats.vercel.app/api?username=JewonYeon&&theme=react&show_icons=true)](https://github.com/JewonYeon/github-readme-stats)
 
+<h3> Tech Stack </h3>
 
-### Tech Stack
 **[ 프로그래밍 언어 ]** Javascript, Typescript, HTML, CSS, SCSS/SASS   
 **[ 프레임워크 & 라이브러리 ]** React/Hooks, Redux, Node.js, Express   
 **[ DB & 서버 ]** MySQL, Sequelize   
